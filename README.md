@@ -5,4 +5,6 @@ VMF to OBJ: https://github.com/Ambiabstract/vmf_to_obj_solids_mats
 
 VMF to Godot: https://github.com/H2xDev/GodotVMF
 
+VMF to UE4 (WIP): https://github.com/Ambiabstract/vmf_to_ue4
+
 props_scaling_recompiler: https://github.com/Ambiabstract/props_scaling_recompiler
