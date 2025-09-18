@@ -9,4 +9,6 @@ VMF to UE4 (WIP): https://github.com/Ambiabstract/vmf_to_ue4
 
 props_scaling_recompiler: https://github.com/Ambiabstract/props_scaling_recompiler
 
+soundscripts_editor: https://github.com/Ambiabstract/soundscripts_editor
+
 Simple hotspot rect editor (WIP): https://github.com/Ambiabstract/rect_editor
