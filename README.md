@@ -12,3 +12,5 @@ props_scaling_recompiler: https://github.com/Ambiabstract/props_scaling_recompil
 soundscripts_editor: https://github.com/Ambiabstract/soundscripts_editor
 
 Simple hotspot rect editor (WIP): https://github.com/Ambiabstract/rect_editor
+
+3ds max batch SMD export: https://github.com/Ambiabstract/Batch_SMD_Export_Tool
